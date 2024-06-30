@@ -5,4 +5,4 @@ OddAndEvenNumber
 > 分成輸入、處理、輸出三個不同的Function 使用for迴圈與if判斷單雙數
 
 WriteTxt
-> 分成輸入、處理、輸出三個不同的Function 將兩個String合併之後寫入一個txt檔案裡 使用StringBuilder與append的方式
+> 分成輸入、處理、輸出三個不同的Function 使用append的方式兩個String合併之後寫入一個txt檔案裡 
