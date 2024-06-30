@@ -6,7 +6,7 @@ import java.io.IOException;
 public class WriteTxt {
     public static void main(String[] args) {
     }
-    
+
     private static void input() {
 
     }

@@ -11,7 +11,7 @@ public class Calculate {
 
     }
 
-    private static void minus(int input1, int input2) {
+    private static void minus() {
 
     }
 
