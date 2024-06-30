@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import com.example.demo.entity.testEntity;
+import com.example.demo.entity.Entity;
 import com.example.demo.services.Services;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,7 +15,7 @@ public class Controller {
     private Services testServices;
 
     @GetMapping("/TEST")
-    public List<testEntity> test() {
+    public List<Entity> test() {
         return testServices.findAll();
     }
 }
